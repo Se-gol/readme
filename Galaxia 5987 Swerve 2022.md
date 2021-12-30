@@ -1,7 +1,5 @@
 # Galaxia 5987 Swerve 2022
 
-    <img src="file:///C:/Users/saarz/AppData/Roaming/marktext/images/2021-12-30-20-59-38-image.png" title="" alt="" width="705">
-
 ---
 
-
+![image](https://user-images.githubusercontent.com/71329836/147782071-0208a856-d116-4460-b01a-c3a44732760c.png)
